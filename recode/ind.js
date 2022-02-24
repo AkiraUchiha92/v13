@@ -42,7 +42,7 @@ Note :
 `
 }
 
-exports.hagostore = () => {
+exports.pulsastore = () => {
 return `*ISI ULANG PULSA ALL OPR*
 
 • LEGAL 100%
