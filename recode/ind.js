@@ -43,22 +43,21 @@ Note :
 }
 
 exports.hagostore = () => {
-return `*DROP DATA DIAMOND HAGO*
-• VIA ID
+return `*ISI ULANG PULSA ALL OPR*
+
 • LEGAL 100%
 • PROSES 1-3 MENIT
 
-*6 💎 Rp 2.000*
-*45 💎 Rp 15.000*
-*90 💎 Rp 30.000*
-*225 💎 Rp 74.000*
-*375 💎 Rp 121.000*
-*900 💎 Rp 291.000*
-*1650 💎 Rp 531.000*
+*5.000 💎 Rp 6.000*
+*10.000 💎 Rp 11.000*
+*15.000 💎 Rp 16.000*
+*20.000 💎 Rp 21.000*
+*25.000 💎 Rp 26.000*
+*30.000 💎 Rp 31.000*
+*50.000 💎 Rp 51.000*
 
 Note : 
 • Harga sewaktu waktu berubah
-• Pastikan ID Sudah benar
 • Pemesanan lebih tinggal x kan saja
 • Kesalahan Pengirim data tidak ada reff
 `
